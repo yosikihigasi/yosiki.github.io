@@ -1,0 +1,34 @@
+
+.header-logo{
+  font-size: 30px;
+  color:#0000ff;
+  padding:10px 1px 10px 650px
+
+}
+
+.header{
+  background-color: #f3f372;
+  font-family: serif;
+
+}
+
+.main{
+  padding:10px 20px 10px 400px;
+　
+}
+
+body{
+  background-color: #8be0e6;
+}
+
+.footer-logo{
+  float:left;
+}
+
+.footer-list{
+  float:right;
+}
+
+.footer{
+  margin-top:200px;
+}
